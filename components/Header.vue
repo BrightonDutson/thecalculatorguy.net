@@ -25,6 +25,9 @@ function toggleDarkMode(): void {
         <NuxtLink href="/">
           <button class="text-lg p-2 text-text hover:underline font-semibold">Home</button>
         </NuxtLink>
+        <NuxtLink href="/GamesChat&More">
+          <button class="text-lg p-2 text-text hover:underline font-semibold">Games & Chat</button>
+        </NuxtLink>
         <NuxtLink href="/calculator">
           <button class="text-lg p-2 text-text hover:underline font-semibold">Calculator</button>
         </NuxtLink>

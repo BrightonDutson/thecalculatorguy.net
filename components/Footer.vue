@@ -13,7 +13,7 @@
                 <div class="flex flex-col justify-right items-left gap-4">
                     <p class="font-bold text-lg font-heading text-primary">Useful Links</p>
                     <NuxtLink to="/" class="hover:underline">Home</NuxtLink>
-                    <NuxtLink to="/calculator" class="hover:underline">Calculator</NuxtLink>
+                    <NuxtLink to="/GamesChat&More" class="hover:underline">Site Login</NuxtLink>
                     <NuxtLink to="/contact" class="hover:underline">Contact</NuxtLink>
                 </div>
                 <div class="flex flex-col justify-right items-left gap-4">
@@ -26,7 +26,7 @@
                     <p class="font-bold text-lg font-heading text-primary">Related Sites</p>
                     <NuxtLink to="https://natewashburn.is-a.dev" target="_blank" class="hover:underline">natewashburn.is-a.dev</NuxtLink>
                     <NuxtLink to="https://motortruck1221.com" target="_blank" class="hover:underline">motortruck1221.com</NuxtLink>
-                    <NuxtLink to="https://allancoding.is-a.dev" class="hover:underline">allancoding.is-a.dev</NuxtLink>
+                    <NuxtLink to="https://allancoding.dev" class="hover:underline">allancoding.dev</NuxtLink>
                 </div>
             </div>
             <div class="w-full flex justify-center">
@@ -34,8 +34,10 @@
             </div>
             <div class="pt-10 flex flex-row justify-evenly items-center">
                 <div class="flex flex-col gap-2">
-                    <p>Site made by Nate Washburn</p>
-                    <NuxtLink href="https://github.com/NateTheGreat1230/" class="text-primary hover:underline"><p>@NateTheGreat1230</p></NuxtLink>
+                    <p>Website contributers</p>
+                    <NuxtLink href="https://github.com/BrightonDutson" class="text-primary hover:underline"><p>Brighton Dutson </p></NuxtLink>
+                    <NuxtLink href="https://github.com/NateTheGreat1230/" class="text-primary hover:underline"><p>Nate Washburn</p></NuxtLink>
+                    <NuxtLink href="https://github.com/allancoding" class="text-primary hover:underline"><p>Allan Niles</p></NuxtLink>
                 </div>
                  
                     
@@ -60,7 +62,7 @@
                         </NuxtLink>
                     </div>
                 </div>
-                <p class="hidden md:flex">© Copyright 2024 Brighton Dutson</p>
+                <p class="hidden md:flex">© Copyright 2025 Brighton Dutson</p>
             </div>
         </div>
     </div>
