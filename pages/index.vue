@@ -13,7 +13,7 @@
                 <p>Hello, I am</p>
                 <p class="text-primary font-semibold">TheCalculatorGuy</p>
             </div>
-            <p class="text-2xl">I am an IT professional and calculator enthusiast.</p>
+            <p class="text-2xl">I am a Cybersecurity and Computer Science professional and calculator enthusiast.</p>
             <p>I’m Brighton Dutson, a Graphing Calculator geek with a love for all things tech—except Chromebooks, which I can’t stand. I’m working toward my Diploma and Associate's, with plans to dive deeper into Computer Science or Cyber Security. I've got hands-on experience from home projects, school, and an internship at CanyonMedia. I’m also skilled in Cyber Security, soldering, and coding in C++, Python, JavaScript, PHP, and Bash.</p>
             <NuxtLink href="/contact">
                 <button class="text-lg text-primary hover:underline font-semibold">Contact Me Here</button>
@@ -25,7 +25,7 @@
         <Calculator
             title="About Me"
             title-style="text-primary pl-16 text-xl font-heading"
-            text="My name is Brighton Dutson, I am a Graphing Calculator enthusiast, and love most things involving electricity and computing. Chromebooks are the exception, I despise them. I am currently in school working on my Diploma and an Associates of general studies (Anticipated 2025). I later plan on continuing my studies for a Bachelors of Compter Science or of Cyber Security."
+            text="My name is Brighton Dutson, I am a Graphing Calculator enthusiast, and love most things involving electricity and computing. Chromebooks are the exception, I despise them. I am currently in school working on my Diploma and an Associates of general studies (Anticipated 2025). I later plan on continuing my studies for a Bachelors of Compter Science and Cyber Security."
             text-style="text-xs text-white"
         />
         <Calculator

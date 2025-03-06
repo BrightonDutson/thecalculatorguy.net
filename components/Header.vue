@@ -31,8 +31,11 @@ function toggleDarkMode(): void {
         <NuxtLink href="/contact">
           <button class="text-lg p-2 text-text hover:underline font-semibold">Contact</button>
         </NuxtLink>
+        <NuxtLink href="/Bible/">
+          <button class="text-lg p-2 text-text hover:underline font-semibold">Bible</button>
+        </NuxtLink>
         <div class="relative group">
-          <button class="text-lg px-2 text-text hover:underline font-semibold">My Sites⌄</button>
+          <button class="text-lg px-2 text-text hover:underline font-semibold">My Sites</button>
           <div class="absolute hidden group-hover:block w-48 rounded-lg shadow-lg border-4 border-gray-700 bg-secondary text-text">
             <div class="py-1" role="menu" aria-orientation="vertical" aria-labelledby="options-menu">
               <NuxtLink href="http://thecalculatorguy.dev/">
@@ -64,6 +67,9 @@ function toggleDarkMode(): void {
         </NuxtLink>
         <NuxtLink href="/contact">
           <button class="w-full text-left px-4 py-2 text-sm hover:underline">Contact</button>
+        </NuxtLink>
+        <NuxtLink href="/Bible/">
+          <button class="w-full text-left px-4 py-2 text-sm hover:underline">Bible</button>
         </NuxtLink>
         <div class="relative">
           <button @click="toggleInnerDropdown" class="w-full text-left px-4 py-2 text-sm hover:underline">My Sites⌄</button>

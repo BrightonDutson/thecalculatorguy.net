@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   ssr: true,
   pages: true,
   modules: ["@nuxt/content", '@nuxtjs/tailwindcss'],
+
   content: {
     highlight: {},
         navigation: {
@@ -15,20 +16,22 @@ export default defineNuxtConfig({
             },
         },
     },
-    tailwindcss: {
-        viewer: true,
-    },
-    nitro: {
-        preset: "github_pages"
-    },
-    css: [
-        '@fortawesome/fontawesome-svg-core/styles.css',
-    ],
-    build: {
-        transpile: [
-            "@fortawesome/fontawesome-svg-core",
-            "@fortawesome/free-brands-svg-icons",
-            "@fortawesome/vue-fontawesome",
-        ],
-    },
+
+  tailwindcss: {
+      viewer: true,
+  },
+
+  css: [
+      '@fortawesome/fontawesome-svg-core/styles.css',
+  ],
+
+  build: {
+      transpile: [
+          "@fortawesome/fontawesome-svg-core",
+          "@fortawesome/free-brands-svg-icons",
+          "@fortawesome/vue-fontawesome",
+      ],
+  },
+
+  compatibilityDate: '2025-03-06',
 })

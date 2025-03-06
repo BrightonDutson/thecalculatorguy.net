@@ -7,7 +7,7 @@
             <div class=" p-2 flex flex-row justify-evenly ">
                 <div class="hidden md:flex flex-col space-x-5 justify-right mb-5">
                     <NuxtLink to="/">
-                        <img src="/favicon.png" class="w-24 object-cover" />
+                        <img src="/logo.png" class="w-24 object-cover" />
                     </NuxtLink>
                 </div>
                 <div class="flex flex-col justify-right items-left gap-4">

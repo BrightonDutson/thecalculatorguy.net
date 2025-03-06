@@ -13,7 +13,7 @@
             {name: 'format-detection', content: 'telephone=no'},
             {name: 'msapplication-TileColor', content: '#000000'},
             {name: 'theme-color', content: '#000000'},
-            {hid: 'og:image', property: 'og:image', content: 'https://thecalculatorguy.net/favicon.png'},
+            {hid: 'og:image', property: 'og:image', content: 'https://thecalculatorguy.net/logo.png'},
             {hid: 'og:title', property: 'og:title', content: 'TheCalculatorGuy'},
             {hid: 'og:site_name', property: 'og:site_name', content: 'Personal Site'},
             {hid: 'og:description', property: 'og:description', content: 'TheCalculatorGuy\'s personal website.'},
@@ -21,7 +21,7 @@
             {hid: 'og:type', property: 'og:type', content: 'website'},
         ],
         link: [
-            {rel: 'icon', type: 'image/x-png', href: '/favicon.png'},
+            {rel: 'icon', type: 'image/x-png', href: '/favicon.ico'},
         ],
     })
 </script>
