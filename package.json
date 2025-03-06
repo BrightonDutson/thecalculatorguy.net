@@ -1,7 +1,10 @@
 {
-  "name": "nuxt-app",
-  "private": true,
-  "type": "module",
+  "name": "thecalculatorguy.net",
+  "version": "1.0.0",
+  "description": "My website and portfolio",
+  "main": "index.js",
+  "repository": "https://github.com/BrightonDutson/thecalculatorguy.net.git",
+  "author": "Brighton Dutson <brightondutson@gmail.com>",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
