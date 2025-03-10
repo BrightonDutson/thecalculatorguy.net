@@ -38,7 +38,7 @@ function toggleDarkMode(): void {
           <button class="text-lg p-2 text-text hover:underline font-semibold">Bible</button>
         </NuxtLink>
         <div class="relative group">
-          <button class="text-lg px-2 text-text hover:underline font-semibold">My Sites</button>
+          <button class="text-lg px-2 text-text hover:underline font-semibold">My Other Sites</button>
           <div class="absolute hidden group-hover:block w-48 rounded-lg shadow-lg border-4 border-gray-700 bg-secondary text-text">
             <div class="py-1" role="menu" aria-orientation="vertical" aria-labelledby="options-menu">
               <NuxtLink href="http://thecalculatorguy.dev/">
